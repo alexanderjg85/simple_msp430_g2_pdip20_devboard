@@ -3748,10 +3748,28 @@
 		(uuid "4bbb848a-f381-4cc9-996c-b8601b867a1b")
 	)
 	(junction
+		(at 85.09 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "522fb3ca-5190-48fa-b956-ea16838b0062")
+	)
+	(junction
 		(at 209.55 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "524852d5-6e3c-4155-b01a-b08a7ff3d0e5")
+	)
+	(junction
+		(at 58.42 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53ab72e3-9422-4df2-a37b-7f84371f080e")
+	)
+	(junction
+		(at 234.95 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "631594d9-9882-4ce8-8886-6208a2bf8484")
 	)
 	(junction
 		(at 15.24 48.26)
@@ -3770,6 +3788,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7607fd91-f03c-4c20-b7c9-c0e4f09e3589")
+	)
+	(junction
+		(at 80.01 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77ae64b5-d6e7-42b5-a665-6c23e95ffda7")
+	)
+	(junction
+		(at 209.55 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d096b4f-f378-4ca9-8a84-9486c1337ed8")
+	)
+	(junction
+		(at 227.33 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9856ac59-8f0e-42d2-bd52-bcc4c93365c6")
 	)
 	(junction
 		(at 15.24 43.18)
@@ -3806,6 +3842,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5e9aea7-2571-4c0f-b078-869135d1ee1e")
+	)
+	(junction
+		(at 209.55 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc084e5a-6e68-4bba-8fdf-62da49ce6f81")
 	)
 	(junction
 		(at 248.92 137.16)
@@ -3849,7 +3891,17 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 50.8) (xy 59.69 50.8)
+			(xy 227.33 132.08) (xy 234.95 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "051a1b71-99cf-436f-8ae0-00b93826bba4")
+	)
+	(wire
+		(pts
+			(xy 55.88 50.8) (xy 58.42 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3999,6 +4051,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 102.87) (xy 209.55 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2534a89f-06bb-41db-9a3f-c8b8c9e9e1e6")
+	)
+	(wire
+		(pts
 			(xy 167.64 80.01) (xy 186.69 80.01)
 		)
 		(stroke
@@ -4009,7 +4071,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 101.6) (xy 209.55 106.68)
+			(xy 209.55 101.6) (xy 209.55 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4219,6 +4281,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 50.8) (xy 59.69 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e2dbbb9-21cf-4e0a-8bd8-537032c67283")
+	)
+	(wire
+		(pts
 			(xy 87.63 82.55) (xy 87.63 86.36)
 		)
 		(stroke
@@ -4269,7 +4341,7 @@
 	)
 	(wire
 		(pts
-			(xy 232.41 68.58) (xy 238.76 68.58)
+			(xy 232.41 68.58) (xy 234.95 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4289,7 +4361,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 57.15) (xy 209.55 59.69)
+			(xy 209.55 57.15) (xy 209.55 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4339,6 +4411,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 58.42) (xy 209.55 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ae412a8-9a2e-4871-b603-92e2b1272f7b")
+	)
+	(wire
+		(pts
 			(xy 149.86 146.05) (xy 156.21 146.05)
 		)
 		(stroke
@@ -4356,6 +4438,16 @@
 			(type default)
 		)
 		(uuid "8d66444a-2276-4d51-8eb7-7d14806381a7")
+	)
+	(wire
+		(pts
+			(xy 85.09 40.64) (xy 90.17 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ddd2df4-6adc-4e8f-9f03-b2f6a3dce6d0")
 	)
 	(wire
 		(pts
@@ -4459,7 +4551,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 40.64) (xy 87.63 39.37)
+			(xy 90.17 40.64) (xy 90.17 39.37)
 		)
 		(stroke
 			(width 0)
@@ -4499,7 +4591,17 @@
 	)
 	(wire
 		(pts
-			(xy 80.01 40.64) (xy 87.63 40.64)
+			(xy 234.95 68.58) (xy 242.57 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1ec8415-ef28-4271-98ad-a90915a2f75f")
+	)
+	(wire
+		(pts
+			(xy 80.01 40.64) (xy 85.09 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4679,6 +4781,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 50.8) (xy 58.42 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea23b6b8-0dd6-4d30-9b29-d4df0213bbd4")
+	)
+	(wire
+		(pts
 			(xy 248.92 132.08) (xy 248.92 137.16)
 		)
 		(stroke
@@ -4689,13 +4801,23 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 132.08) (xy 234.95 132.08)
+			(xy 223.52 132.08) (xy 227.33 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f2f0d079-56a0-42ea-b76b-ef74290dfe87")
+	)
+	(wire
+		(pts
+			(xy 80.01 91.44) (xy 87.63 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6ee23db-e91b-4b57-9fcb-3443e055a9ef")
 	)
 	(wire
 		(pts
@@ -4729,7 +4851,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 91.44) (xy 87.63 91.44)
+			(xy 58.42 91.44) (xy 80.01 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4981,7 +5103,7 @@
 	)
 	(global_label "MSP_TEST"
 		(shape input)
-		(at 238.76 68.58 90)
+		(at 242.57 68.58 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4991,7 +5113,7 @@
 		)
 		(uuid "62c13f9d-874c-4eae-9fa5-82aff2e219f7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 56.4026 90)
+			(at 242.57 56.4026 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5370,6 +5492,128 @@
 			(project "MSP430_G2_PDIP20_Devboard_THT"
 				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 80.01 91.44 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0417d834-a76d-43e5-a03b-4eb7a4979d78")
+		(property "Reference" "TP5"
+			(at 81.28 96.774 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "EN"
+			(at 77.978 94.996 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 74.93 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 80.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 80.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 80.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 80.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 80.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c780156e-78a8-43b2-9a0d-79a15afd5516")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -5826,6 +6070,128 @@
 			(project "MSP430_G2_PDIP20_Devboard_THT"
 				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
 					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 209.55 58.42 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1702ca4c-3ef1-45c6-a719-91104a7366d5")
+		(property "Reference" "TP1"
+			(at 212.852 56.388 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VDD"
+			(at 215.138 58.166 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 209.55 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 209.55 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 209.55 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 209.55 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 209.55 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 209.55 58.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a8238c6-3233-40b0-ad0d-40ff77a82c31")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -7739,6 +8105,128 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 234.95 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "62912b68-ae10-4684-bd26-8417477be734")
+		(property "Reference" "TP7"
+			(at 233.68 63.246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TEST"
+			(at 236.22 66.548 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 240.03 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 234.95 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b0dcea15-fd42-4829-9dc0-da33facf69d6")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "AJ_Connectors:2479774-1")
 		(at 25.4 40.64 0)
 		(unit 1)
@@ -8055,6 +8543,128 @@
 			(project "MSP430_G2_PDIP20_Devboard_THT"
 				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 209.55 102.87 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "73513841-74d2-4a88-a716-bc86c7154212")
+		(property "Reference" "TP8"
+			(at 214.884 101.6 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 213.106 104.902 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 209.55 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 209.55 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 209.55 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 209.55 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 209.55 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 209.55 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "865fc206-4cc9-487f-8a57-eab5101100ad")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -8694,6 +9304,128 @@
 			(project "MSP430_G2_PDIP20_Devboard_THT"
 				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 227.33 132.08 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8d91c9bc-4a86-4854-a611-754afd44ced6")
+		(property "Reference" "TP6"
+			(at 228.6 137.414 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RES"
+			(at 225.298 135.636 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 222.25 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 222.25 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 227.33 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 227.33 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 227.33 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 227.33 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 227.33 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "50f3c376-d55a-459b-83d0-c489b6f9bcf0")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -9595,6 +10327,128 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 85.09 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d354d29a-dac9-482c-b255-e042034e7ac3")
+		(property "Reference" "TP3"
+			(at 83.82 35.306 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "VCC"
+			(at 79.502 37.338 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 90.17 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 85.09 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 85.09 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 85.09 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 85.09 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 85.09 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e2197226-c7ab-4a4c-b282-6e4df2429f28")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 62.23 50.8 0)
 		(unit 1)
@@ -9968,6 +10822,128 @@
 			(project "MSP430_G2_PDIP20_Devboard_THT"
 				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 58.42 52.07 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e8b2c8ef-ce07-4d8a-83fa-0669ea03e9db")
+		(property "Reference" "TP4"
+			(at 59.69 57.404 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 56.388 55.626 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 53.34 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 58.42 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" ""
+			(at 58.42 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" ""
+			(at 58.42 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 58.42 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S5.1" ""
+			(at 58.42 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7942c9b2-68d4-456c-97f1-ae0f7cdd6c8e")
+		)
+		(instances
+			(project "MSP430_G2_PDIP20_Devboard_THT"
+				(path "/4983d082-79f3-4568-9c26-900692ec5e8c"
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -10410,7 +11386,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 87.63 39.37 0)
+		(at 90.17 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10421,7 +11397,7 @@
 		(fields_autoplaced yes)
 		(uuid "ffd8d0df-e780-40ed-ae16-be9dbdd1233a")
 		(property "Reference" "#PWR03"
-			(at 87.63 43.18 0)
+			(at 90.17 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10432,7 +11408,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 87.63 34.29 0)
+			(at 90.17 34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10442,7 +11418,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 87.63 39.37 0)
+			(at 90.17 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10453,7 +11429,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 87.63 39.37 0)
+			(at 90.17 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10464,7 +11440,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 87.63 39.37 0)
+			(at 90.17 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
