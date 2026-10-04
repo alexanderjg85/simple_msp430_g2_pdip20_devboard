@@ -1,0 +1,59 @@
+PCB statistics report
+=====================
+- Date: Sun 04 Oct 2026 23:40:24 CEST
+- Project: MSP430_G2_PDIP20_Devboard_THT
+- Board name: MSP430_G2_PDIP20_Devboard_THT
+
+Board
+-----
+- Width: 69.0000 mm
+- Height: 36.0000 mm
+- Area: 2476.261 mm²
+- Front copper area: 428.632 mm²
+- Back copper area: 2221.065 mm²
+- Min track clearance: 0.3000 mm
+- Min track width: 0.3000 mm
+- Min drill diameter: 0.4500 mm
+- Board stackup thickness: 1.6000 mm
+
+- Front footprint area: 950.413 mm²
+- Back footprint area: 211.995 mm²
+- Front component density: 38.38 %
+- Back component density: 8.56 %
+Pads
+----
+- Through hole: 56
+- SMD: 49
+- Connector: 0
+- NPTH: 4
+- Castellated: 0
+- Press-fit: 0
+
+Vias
+----
+- Through vias: 25
+- Blind vias: 0
+- Buried vias: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          9 |         0 |     9 |
+|SMD:          |         13 |         0 |    13 |
+|Unspecified:  |         14 |         0 |    14 |
+|Total:        |         36 |         0 |    36 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    25 | Round | 0.4500 mm | 0.4500 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    24 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    24 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 2.7000 mm | 2.7000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1.3400 mm | 1.3400 mm |    PTH |     Pad |        F.Cu |       B.Cu |
