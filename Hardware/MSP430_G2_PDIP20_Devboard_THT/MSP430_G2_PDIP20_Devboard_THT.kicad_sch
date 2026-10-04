@@ -6054,6 +6054,28 @@
 				)
 			)
 		)
+		(property "Package" "2.54 mm 1x4"
+			(at 171.45 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "Male / THT/ Vertical"
+			(at 171.45 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e144494b-4adc-4017-bd8d-28a2889ad7db")
 		)
@@ -6507,6 +6529,28 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 58.42 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "1% 125 mW"
+			(at 58.42 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c89c0db0-7eab-4b11-9df7-487f430e558e")
 		)
@@ -6577,6 +6621,28 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated"
+			(at 257.81 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "2.54 mm 1x10"
+			(at 257.81 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "Male / THT/ Vertical"
 			(at 257.81 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6714,6 +6780,28 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 242.57 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" " ±10% 100V"
+			(at 242.57 132.08 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "40a95b87-ed30-48e0-988d-14598b47c4dd")
 		)
@@ -6808,6 +6896,28 @@
 			)
 		)
 		(property "Manufacturer" "FOJAN(富捷)"
+			(at 21.59 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0805"
+			(at 21.59 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "1% 125 mW"
 			(at 21.59 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -7059,6 +7169,28 @@
 				)
 			)
 		)
+		(property "Package" "0805"
+			(at 59.69 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "1% 125 mW"
+			(at 59.69 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87c1935b-6ec4-4209-814a-8e149d11fed1")
 		)
@@ -7128,6 +7260,28 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x10, script generated"
+			(at 162.56 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "2.54 mm 1x10"
+			(at 162.56 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "Male / THT/ Vertical"
 			(at 162.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -7415,7 +7569,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MSP430G2302IN20"
+		(property "Value" "MSP430G2302"
 			(at 211.6933 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7450,6 +7604,39 @@
 			)
 		)
 		(property "Description" "4kB Flash, 256B RAM, DIP-20"
+			(at 209.55 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFR PN" "MSP430G2302IN20"
+			(at 209.55 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "PDIP-20"
+			(at 209.55 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "16-Bit MSP430 16 MHz"
 			(at 209.55 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -7929,6 +8116,28 @@
 				)
 			)
 		)
+		(property "Package" "SOD-323"
+			(at 80.01 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "Vbr 5.6V Vc 8V Ipp 11A"
+			(at 80.01 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c5c06ff2-a38e-4c87-a35b-d004ac06f47c")
 		)
@@ -8079,6 +8288,28 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 58.42 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "0805"
+			(at 58.42 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "1% 125 mW"
 			(at 58.42 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -8293,8 +8524,8 @@
 				)
 			)
 		)
-		(property "Height" "3.31"
-			(at 52.07 435.56 0)
+		(property "MFR PN" "2479774-1"
+			(at 25.4 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8302,11 +8533,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Mouser Part Number" "571-2479774-1"
-			(at 52.07 535.56 0)
+		(property "Manufacturer" "TE Connectivity"
+			(at 25.4 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8314,11 +8544,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2479774-1?qs=dbcCsuKDzFU5QD2sraQ9kg%3D%3D"
-			(at 52.07 635.56 0)
+		(property "Package" "Receptable 1x6"
+			(at 25.4 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8326,11 +8555,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Manufacturer_Name" "TE Connectivity"
-			(at 52.07 735.56 0)
+		(property "Spec" "USB C 2.0 "
+			(at 25.4 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8338,19 +8566,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
-			)
-		)
-		(property "Manufacturer_Part_Number" "2479774-1"
-			(at 52.07 835.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 			)
 		)
 		(pin "A12"
@@ -8902,6 +9117,28 @@
 			)
 		)
 		(property "Manufacturer" "MSKSEMI(美森科)"
+			(at 97.79 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Package" "SOT-23-5"
+			(at 97.79 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Spec" "3V3 0.6 A"
 			(at 97.79 88.9 0)
 			(hide yes)
 			(show_name no)
